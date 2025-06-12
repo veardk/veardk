@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on: Full-stack development (I fix the front-end mess, rescue the back-end explosions, and yes - full-stack life is a total circus act! 🤹‍♂️)
+- 🔭 Currently working on: Full-stack development (I fix the front-end mess, rescue the back-end explosions, and yes - full-stack life is a total circus act 🤹‍♂️)
 - 📚 Currently learning: LLM & TypeScript
 - 🤝 Open to collaborate on: Open Source Projects & Innovative Web Solutions
 - 📫 How to reach me: **veardk423@gmail.com** 
