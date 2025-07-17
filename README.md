@@ -16,64 +16,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on: Full-stack development (I fix the front-end mess, rescue the back-end explosions, and yes - full-stack life is a total circus act 🤹‍♂️)
 - 📚 Currently learning: LLM & TypeScript
 - 🤝 Open to collaborate on: Open Source Projects & Innovative Web Solutions
 - 📫 How to reach me: **veardk423@gmail.com** 
 - 👾 Fun fact: Octopuses have three hearts, which makes me wonder if they're secretly writing multithreaded code
-
-### 🛠️ Languages and Tools
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-          <br /><br />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/>
-          <br /><br />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="60" height="60"/>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-          <br /><br />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
-          <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="60" height="60"/>
-          <br /><br />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">DevOps</h3>
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### ⚡ My Stats
 
