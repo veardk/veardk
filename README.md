@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 📚 Currently learning: LLM & TypeScript
+- 💼 Full-Stack Engineer
 - 🤝 Open to collaborate on: Open Source Projects & Innovative Web Solutions
 - 📫 How to reach me: **veardk423@gmail.com** 
 - 👾 Fun fact: Octopuses have three hearts, which makes me wonder if they're secretly writing multithreaded code
@@ -27,10 +27,10 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=veardk&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=ffffff&title_color=4361EE&text_color=333333&icon_color=4F46E5&border_radius=10" alt="levon's language stats" />
+        <img width="100%" src="https://github-readme-stats-kappa.vercel.app/api/top-langs?username=veardk&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=ffffff&title_color=4361EE&text_color=333333&icon_color=4F46E5&border_radius=10" alt="levon's language stats" />
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=veardk&show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=4361EE&text_color=333333&icon_color=4F46E5&border_radius=10&rank_icon=github" alt="levon's github stats" />
+        <img width="100%" src="https://github-readme-stats-kappa.vercel.app/api?username=veardk&show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=4361EE&text_color=333333&icon_color=4F46E5&border_radius=10&rank_icon=github" alt="levon's github stats" />
       </td>
     </tr>
   </table>
